@@ -1,0 +1,15 @@
+.category {
+    display: flex;
+    flex-direction: column;
+}
+
+.category section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.category h1 {
+    padding-block: 20px;
+    font-size: 1.5em;
+}

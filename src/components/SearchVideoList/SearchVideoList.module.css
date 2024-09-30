@@ -1,0 +1,25 @@
+.SearchVideoList div {
+    background-color: white;
+    width: 320px;
+    border-radius: 25px;
+    display: flex;
+    margin: 20px;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 15px;
+}
+
+.SearchVideoList div img {
+    width: 30px;
+    height: 30px;
+}
+
+input {
+    background-color: white;
+    color: #757575;
+    font-weight: 600;
+    font-size: large;
+    border-bottom: solid 2px #800706;
+    text-align: left;
+    height: 35px;
+}

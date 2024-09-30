@@ -1,0 +1,9 @@
+.Container {
+    width: 100%;
+    min-height: calc(100vh - 447px);
+    background-color: #191919;
+    color: white;
+    padding-block: 20px;
+    text-align: center;
+    
+}

@@ -1,0 +1,23 @@
+.header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    border-bottom: solid 2px rgba(255, 0, 0, 0.5);
+    width: 100%;
+    font-weight: 600;
+}
+
+.header span {
+    color: red;
+    margin-left: 15px;
+    font-size: 1.5em;
+}
+
+.header a {
+    color: white;
+    margin-right: 15px;
+    cursor: pointer;
+    text-decoration: none;
+}
