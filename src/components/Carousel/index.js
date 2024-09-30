@@ -37,6 +37,6 @@ export function Carousel({ children }) {
     };
 
     return (
-        // teste
+        // teste ABluble
     );
 }
