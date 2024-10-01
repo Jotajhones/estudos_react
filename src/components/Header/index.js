@@ -7,7 +7,7 @@ export function Header() {
             <Link to="/"><span>Projeto Filmes</span></Link>
             <nav>
                 <Link to="/">Home</Link>
-                <Link to="/watch">Assistir</Link>
+                <Link to="/Favorites">Favoritos</Link>
                 <Link to="/Search">Pesquisar</Link>
             </nav>
         </header>

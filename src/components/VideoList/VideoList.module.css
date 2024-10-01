@@ -3,4 +3,6 @@
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
+    margin: auto;
+    max-width: 1300px;
 }

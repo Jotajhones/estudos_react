@@ -4,6 +4,8 @@
     background-color: #191919;
     color: white;
     padding-block: 20px;
+    padding-inline: 20px;
     text-align: center;
-    
+    overflow: hidden;    
 }
+
