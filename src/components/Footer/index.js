@@ -1,10 +1,11 @@
-import style from './Footer.module.css';
+import styles from "./Footer.module.css";
 
-export function Footer() {
+function Footer() {
     return (
-        <footer className={style.Footer}>
-            Projeto FIlmes &copy;
+        <footer className={styles.footer}>
+            <h2>MaiaFlix &copy; Desenvolvido por Edson Maia 2023</h2>
         </footer>
-    )
+    );
 }
 
+export default Footer;

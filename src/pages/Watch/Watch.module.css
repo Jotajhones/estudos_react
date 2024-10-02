@@ -1,5 +1,4 @@
 .watch {
-    height: calc(100vh - 140px);
-    padding-block: 30px;
-    margin-bottom: 50px;
+    padding-top: 84px; /* 68px + 16px */
+    
 }

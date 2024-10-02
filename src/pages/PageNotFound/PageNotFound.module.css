@@ -1,21 +1,17 @@
 .container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    padding-top: 84px;
     width: 100%;
-    background-color: #161616;
-    color: white;
-    height: calc(100vh - 20px) ;
+    height: 100%;
+    background: #222;
+    color: #fff;
+    text-align: center;
 }
 
-.container h1 {
-    padding-top: 80px;
-    font-size: 2em;
+.container h2 {
+    padding-block: 2rem;
 }
 
 .container img {
-    width: 100%;
-    max-width: 512px;
-    
+    height: 450px;
+    padding-bottom: 2rem;
 }

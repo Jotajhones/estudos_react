@@ -1,25 +1,15 @@
-.SearchVideoList div {
-    background-color: white;
+.container {
+    min-width: 280px;
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.container input {
     width: 320px;
-    border-radius: 25px;
-    display: flex;
-    margin: 20px;
-    justify-content: space-between;
-    align-items: center;
-    padding-inline: 15px;
-}
-
-.SearchVideoList div img {
-    width: 30px;
-    height: 30px;
-}
-
-input {
-    background-color: white;
-    color: #757575;
-    font-weight: 600;
-    font-size: large;
-    border-bottom: solid 2px #800706;
-    text-align: left;
-    height: 35px;
+    padding: 15px 10px;
+    margin-block: 0.5rem;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    font-size: 1.125rem;
 }
